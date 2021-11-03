@@ -1,4 +1,4 @@
-package com.programacionFuncional.dummy.lambdaConReturnMethods;
+package com.programacionFuncional.dummy.lambdas.lambdaConReturnMethods;
 
 public class LambdaConReturnMethods {
 

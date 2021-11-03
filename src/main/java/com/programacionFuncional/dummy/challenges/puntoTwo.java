@@ -1,4 +1,4 @@
-package com.programacionFuncional.dummy.pruebaAngel;
+package com.programacionFuncional.dummy.challenges;
 
 import java.util.Arrays;
 import java.util.Collections;

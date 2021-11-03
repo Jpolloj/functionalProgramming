@@ -1,4 +1,4 @@
-package com.programacionFuncional.dummy.lambdaReturn;
+package com.programacionFuncional.dummy.lambdas.lambdaReturn;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

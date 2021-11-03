@@ -1,4 +1,4 @@
-package com.programacionFuncional.dummy.lambdaScope;
+package com.programacionFuncional.dummy.lambdas.lambdaScope;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

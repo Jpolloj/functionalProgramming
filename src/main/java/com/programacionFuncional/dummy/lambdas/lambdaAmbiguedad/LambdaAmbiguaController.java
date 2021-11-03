@@ -1,6 +1,6 @@
-package com.programacionFuncional.dummy.lambdaAmbiguedad;
+package com.programacionFuncional.dummy.lambdas.lambdaAmbiguedad;
 
-import com.programacionFuncional.dummy.lambdaConParams.LambdaParamsController;
+import com.programacionFuncional.dummy.lambdas.lambdaConParams.LambdaParamsController;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.GetMapping;
